@@ -2,22 +2,24 @@
 
 Este proyecto contiene una implementación inicial de un optimizador sin restricciones en Python.
 
-## Requisitos
 
+- Clase 1: 06/Octubre/2026
+
+**Requisitos**
 ```bash
 pip install -r requirements.txt
 ```
 
-## Archivos principales
+**Archivos principales**
 
 - `opt.py`: definición de la clase `opt_unconstrained`.
 - `_int_.py`: punto de entrada/expansión del paquete.
 
-## Uso
+**Uso**
 
 ```python
 import numpy as np
 from opt import opt_unconstrained
-
-# Ejemplo de uso
 ```
+
+- Clase 2: 12/Octubre/2026
