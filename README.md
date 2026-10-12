@@ -23,3 +23,5 @@ from opt import opt_unconstrained
 ```
 
 - Clase 2: 12/Octubre/2026
+Clonar repositorio:
+https://github.com/numericolaboratorio/IMAD623-2026B.git
